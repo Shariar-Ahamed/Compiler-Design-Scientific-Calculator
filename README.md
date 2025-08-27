@@ -74,6 +74,11 @@ gcc -o app calculator_with_conversion.tab.c lex.yy.c -mconsole
 ```
 ---
 
+
+<div align="center">
+  <img src="Screenshot/Screenshot.png" alt="Calculator Example Screenshot" width="600"/>
+</div>
+
 ## 🖥️ Example Inputs & Outputs
 ```bash
 > 5+3*2
