@@ -125,8 +125,8 @@ Invalid inputs (e.g., 5++2 or sqrt(-4)) will produce clear error messages.
 
 ## 🎓 Acknowledgment
 
-This project was completed as part of CSE314: Compiler Design
-Department of Computer Science and Engineering
-Daffodil International University, Dhaka, Bangladesh
+This project was completed as part of **CSE314**: Compiler Design
+Department of **Computer Science and Engineering**
+**Daffodil International University**, Dhaka, Bangladesh
 
 ## 📅 *August 2025*
